@@ -1,0 +1,8 @@
+package test;
+
+message LoginTest 
+{
+    required    string  name    = 1;
+    required    string  passwd  = 2;  
+}
+
